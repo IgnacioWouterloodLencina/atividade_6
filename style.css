@@ -1,0 +1,24 @@
+.roxo {
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.azul {
+    background-color: blue;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+
+.amarelo {
+    background-color: rgb(238, 255, 0);
+    padding: 20px;
+    margin: 10px;
+
+}
+.flex{
+    display: flex;
+}
